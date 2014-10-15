@@ -1,14 +1,13 @@
-rock-paper-scissors-js
+Rock Paper Scissors JS
 ======================
 
-A game of Rock, Paper, Scissors written in JavaScript
+A game of Rock, Paper, Scissors written in JavaScript.
 
-
-###CRC
+###CRC Cards
 
 ####Player
 It should:
-- Chooses gesture
+- Have a gesture
 
 It interacts with:
 - Game
@@ -16,18 +15,12 @@ It interacts with:
 ####Rules
 It should:
 - Know the rules
-- Determine a winner
+- Take two gestures
+- Determine the winner
 
 It interacts with:
-- Player
 - Game
 
-###For later:
+For later:
 
 ####Game
-It should:
-- Take two gestures
-
-It interacts with:
-- Player
-- Rules
